@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "name": "Shivam",
+        "hobbie": "programming"
+    },
+    {
+        "id": "2",
+        "name": "Satyam",
+        "hobbie": "Trading"
+    },
+    {
+        "id": "3",
+        "name": "Ankit",
+        "hobbie": "Volley Ball"
+    },
+    {
+        "id": "4",
+        "name": "Rohit",
+        "hobbie": "Ratta Marna"
+    },
+    {
+        "id": "5",
+        "name": "Rupesh",
+        "hobbie": "Baigan"
+    },
+    {
+        "id": "6",
+        "name": "Rupesh",
+        "hobbie": "Ash"
+    },
+    {
+        "id": "7",
+        "name": "Adarsh",
+        "hobbie": "Education"
+    }
+]
