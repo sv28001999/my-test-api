@@ -1,5 +1,6 @@
 const express = require('express');
 const cors = require('cors');
+const serverless = require('serverless-http');
 const app = express();
 const port = process.env.PORT || 3000;
 const data = require('./data.json');
@@ -17,3 +18,5 @@ app.get('/data', (req, res) => {
 app.listen(port, () => {
     console.log("I am live");
 });
+
+module.exports.handler = serverless(app);
